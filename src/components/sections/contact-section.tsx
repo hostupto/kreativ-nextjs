@@ -79,8 +79,8 @@ Message: ${formData.message}`
                 <div>
                   <h3 className="text-lg font-semibold mb-1 text-white">Email Us</h3>
                   <p className="text-gray-400">
-                    <a href="mailto:mdfarook@kreativstudio.in" className="hover:text-[#f7c94b] transition-colors">
-                      mdfarook@kreativstudio.in
+                    <a href="mailto:mdfarook@kreativstudio.co.in" className="hover:text-[#f7c94b] transition-colors">
+                      mdfarook@kreativstudio.co.in
                     </a>
                     <br />
                     <a href="mailto:kreativmodel@gmail.com" className="hover:text-[#f7c94b] transition-colors">

@@ -131,10 +131,10 @@ export default function Footer() {
               <li className="flex gap-3">
                 <Mail className="text-[#f7c94b] shrink-0" />
                 <a
-                  href="mailto:mdfarook@kreativstudio.in"
+                  href="mailto:mdfarook@kreativstudio.co.in"
                   className="text-gray-400 hover:text-[#f7c94b] transition-colors"
                 >
-                  mdfarook@kreativstudio.in
+                  mdfarook@kreativstudio.co.in
                 </a>
               </li>
               <li className="flex gap-3">

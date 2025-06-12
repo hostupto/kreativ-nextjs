@@ -58,14 +58,15 @@ Email: ${formData.email}`
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
           <div>
             <div className="relative">
-              <div className="absolute -top-10 left-0 w-20 h-1 bg-[#f7c94b]"></div>
+              {/* <div className="absolute -top-10 left-0 w-20 h-1 bg-[#f7c94b]"></div> */}
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-white">
-              <span className="text-white">Modern</span>
+              <span className="text-white">Design | Construction
+</span>
               <br />
-              <span className="text-[#f7c94b]">Interior</span>
-              <br />
-              <span className="text-white">Design</span>
+              <span className="text-[#f7c94b]">Interior | Exterior</span>
+              {/* <br />
+              <span className="text-white">Design</span> */}
             </h1>
 
             <p className="text-lg text-gray-200 mb-8 max-w-lg">

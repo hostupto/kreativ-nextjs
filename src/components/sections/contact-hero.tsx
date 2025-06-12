@@ -31,8 +31,8 @@ export default function ContactHero() {
                     +91 9789 325 717
                   </a>
                   <br />
-                  <a href="mailto:mdfarook@kreativstudio.in" className="hover:text-[#f7c94b] transition-colors">
-                    mdfarook@kreativstudio.in
+                  <a href="mailto:mdfarook@kreativstudio.co.in" className="hover:text-[#f7c94b] transition-colors">
+                    mdfarook@kreativstudio.co.in
                   </a>
                 </p>
               </div>

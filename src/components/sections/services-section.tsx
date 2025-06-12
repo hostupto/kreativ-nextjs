@@ -47,9 +47,7 @@ export default function ServicesSection() {
               End-to-end <span className="text-[#f7c94b]">Home Interior Solutions</span>
             </h2>
             <p className="text-gray-300 mb-8">
-              We provide comprehensive interior design and construction services tailored to your unique style and
-              requirements. Our team of experts handles everything from concept to completion, ensuring a seamless
-              experience.
+              We provide comprehensive interior design and construction services tailored to your unique style and requirements. Our team of experts handles everything from concept to completion, ensuring a seamless experience. Our offerings include all types of building approval plans, new building construction, house renovation, structural design, 3D elevations, and 360° walkthroughs. We specialize in modular kitchens, interiors, floating beds, and custom furnichair. Additional services include pargula installation, fabrication works, and natural stone flooring. We also construct gabion walls, floating staircases, and provide ACP & cladding glass solutions. Our technical team covers electrical work, plumbing, LED strip lighting, as well as painting and water-proofing services.
             </p>
             <a
               href="/services"
